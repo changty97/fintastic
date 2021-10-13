@@ -1,5 +1,5 @@
 # Fintastic
-Internal tool used for personal finances and includes tracking data that can be utilized for taxes.
+Internal tool used for personal finances with data visualization and includes tracking data that can be utilized for taxes.
 
 # Framework
 This was created using React for the frontend and Django for the backend.
